@@ -7,11 +7,11 @@
 ☁️ Atuo com soluções de infraestrutura híbrida e cloud, Microsoft Azure, Windows Server, Microsoft Intune, Windows Autopilot, Active Directory e Virtualização.
 
 🏆 Certificações e especializações nas trilhas de:
-▪️ Cloud Computing (Microsoft Azure)
-▪️ Modern Workplace (Intune e Autopilot)
-▪️ Windows Server e Infraestrutura Híbrida
-▪️ Redes e Conectividade em Nuvem
-▪️ Virtualização e End User Computing (Omnissa Horizon e Azure Virtual Desktop)
+Cloud Computing (Microsoft Azure)
+Modern Workplace (Intune e Autopilot)
+Windows Server e Infraestrutura Híbrida
+Redes e Conectividade em Nuvem
+Virtualização e End User Computing (Omnissa Horizon e Azure Virtual Desktop)
 
 🎯 Focado em disponibilidade, segurança, automação e padronização de ambientes corporativos, contribuindo para a transformação digital e modernização da infraestrutura de TI.
 
