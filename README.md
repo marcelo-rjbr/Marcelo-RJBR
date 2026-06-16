@@ -1,19 +1,23 @@
-# 👋 Olá, eu sou Marcelo Nascimento
+👋 Olá! Seja bem-vindo(a) ao meu perfil.
 
-☁️ Cloud & Infrastructure Analyst
+💼 Profissional de Tecnologia da Informação com mais de 10 anos de experiência em Infraestrutura, Suporte Corporativo e Administração de Ambientes Microsoft.
 
-Sou profissional de tecnologia com mais de 10 anos de experiência em infraestrutura corporativa, administração de ambientes Microsoft e computação em nuvem.
+🎓 Graduado em Redes de Computadores e Pós-Graduado em Computação em Nuvem.
 
-Atualmente atuo com Azure, Intune, Entra ID, Windows Server e automação, compartilhando neste GitHub laboratórios, projetos e estudos relacionados a Cloud Computing, Infraestrutura e Segurança.
+☁️ Atuo com soluções de infraestrutura híbrida e cloud, Microsoft Azure, Windows Server, Microsoft Intune, Windows Autopilot, Active Directory e Virtualização.
 
-🎓 Pós-Graduado em Computação em Nuvem
+🏆 Certificações e especializações nas trilhas de:
+▪️ Cloud Computing (Microsoft Azure)
+▪️ Modern Workplace (Intune e Autopilot)
+▪️ Windows Server e Infraestrutura Híbrida
+▪️ Redes e Conectividade em Nuvem
+▪️ Virtualização e End User Computing (Omnissa Horizon e Azure Virtual Desktop)
 
-🏅 Microsoft Certified:
-AZ-104 | AZ-305 | AZ-700 | AZ-140 | AZ-800 | AZ-801 | MD-102
+🎯 Focado em disponibilidade, segurança, automação e padronização de ambientes corporativos, contribuindo para a transformação digital e modernização da infraestrutura de TI.
 
-🚀 Sempre aprendendo, automatizando e construindo soluções escaláveis.
-
-📫 Contato
+🚀 Interesse em oportunidades nas áreas de Cloud Computing, Infraestrutura, Modern Workplace, Virtualização e Arquitetura de Soluções Microsoft.
 
 💼 LinkedIn:
 https://linkedin.com/in/nascimentomarceloti
+
+🔗 Vamos nos conectar!
